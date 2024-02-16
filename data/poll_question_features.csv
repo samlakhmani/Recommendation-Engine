@@ -1,0 +1,808 @@
+poll_code,displayType,categories
+poll_3,text,Movies and TV
+poll_4,text,Other
+poll_7,text,Food and Drinks
+poll_11,text,Dating and Relationship
+poll_12,text,Would You Rather
+poll_17,text,Other
+poll_18,text,Other
+poll_19,text,Trivia
+poll_20,text,Language and Names
+poll_22,text,Random
+poll_22,text,Lifestyle
+poll_24,text,Other
+poll_25,text,Other
+poll_26,text,Hypothetical
+poll_27,text,Philosophy and Religion
+poll_32,text,Other
+poll_33,text,Random
+poll_33,text,Dating and Relationship
+poll_35,text,Lifestyle
+poll_36,text,Philosophy and Religion
+poll_40,text,Philosophy and Religion
+poll_41,text,Dating and Relationship
+poll_42,text,Dating and Relationship
+poll_46,text,Hypothetical
+poll_47,text,Hypothetical
+poll_48,text,Current Events
+poll_49,text,Current Events
+poll_50,text,Hypothetical
+poll_52,text,Other
+poll_56,text,Campus Musings
+poll_57,text,Dating and Relationship
+poll_66,text,Other
+poll_69,text,Dating and Relationship
+poll_70,text,Anime
+poll_71,text,Anime
+poll_78,text,Other
+poll_79,text,Other
+poll_82,text,Dating and Relationship
+poll_84,text,Other
+poll_85,text,Other
+poll_88,text,Internet
+poll_93,text,Other
+poll_94,text,Hypothetical
+poll_95,text,Dating and Relationship
+poll_97,text,Random
+poll_97,text,Other
+poll_98,text,Dating and Relationship
+poll_100,text,Other
+poll_101,text,Random
+poll_101,text,Other
+poll_103,text,Other
+poll_106,text,Other
+poll_107,text,Random
+poll_107,text,Would You Rather
+poll_108,text,College Musings
+poll_109,text,Dating and Relationship
+poll_110,text,Dating and Relationship
+poll_112,text,Would You Rather
+poll_113,text,Language and Names
+poll_114,text,Other
+poll_119,text,Random
+poll_119,text,Dating and Relationship
+poll_121,text,Lifestyle
+poll_122,text,Other
+poll_123,text,Lifestyle
+poll_125,text,Lifestyle
+poll_126,text,Dating and Relationship
+poll_127,text,Other
+poll_129,text,Movies and TV
+poll_132,text,Would You Rather
+poll_133,text,Current Events
+poll_135,text,Lifestyle
+poll_136,text,Hypothetical
+poll_137,text,Lifestyle
+poll_139,text,Dating and Relationship
+poll_140,text,Random
+poll_140,text,Trivia
+poll_141,text,Trivia
+poll_142,text,Random
+poll_142,text,Other
+poll_144,text,Dating and Relationship
+poll_145,text,Dating and Relationship
+poll_148,text,City Musings
+poll_149,text,Random
+poll_149,text,Dating and Relationship
+poll_150,text,Tech
+poll_151,text,Other
+poll_155,text,Other
+poll_156,text,Other
+poll_157,text,Dating and Relationship
+poll_161,text,Random
+poll_161,text,Dating and Relationship
+poll_163,text,Other
+poll_164,text,Would You Rather
+poll_165,text,Sports
+poll_166,text,Other
+poll_167,text,Other
+poll_168,text,Lifestyle
+poll_170,text,Philosophy and Religion
+poll_172,text,Other
+poll_173,text,Gaming
+poll_174,text,Dating and Relationship
+poll_179,text,Dating and Relationship
+poll_182,text,Hypothetical
+poll_183,text,Dating and Relationship
+poll_184,text,Dating and Relationship
+poll_187,text,Other
+#N/A,text,Random
+#N/A,text,Other
+poll_194,text,Would You Rather
+poll_196,text,Would You Rather
+poll_200,text,Other
+poll_203,text,Dating and Relationship
+poll_206,text,Other
+poll_207,text,Other
+poll_208,text,Celebrities
+poll_211,text,Would You Rather
+poll_213,text,Hypothetical
+poll_214,text,City Musings
+poll_217,text,Would You Rather
+poll_218,text,Other
+poll_219,text,Food and Drinks
+poll_222,text,Other
+poll_223,text,Dating and Relationship
+poll_226,text,Would You Rather
+poll_228,text,Dating and Relationship
+poll_230,text,Other
+poll_231,text,Travel and Geography
+poll_235,text,Random
+poll_235,text,Lifestyle
+poll_237,text,Movies and TV
+poll_238,text,Lifestyle
+poll_239,text,Campus Musings
+poll_240,text,Dating and Relationship
+poll_241,text,Language and Names
+poll_242,text,Trivia
+poll_245,text,College Musings
+poll_247,text,Other
+poll_248,text,Hypothetical
+poll_250,text,Hobbies
+poll_251,text,Dating and Relationship
+poll_252,text,Other
+poll_254,text,Other
+poll_256,text,Random
+poll_256,text,Other
+poll_258,text,Celebrities
+poll_260,text,Philosophy and Religion
+poll_262,text,Dating and Relationship
+poll_263,text,City Musings
+poll_264,text,Hypothetical
+poll_269,text,Random
+poll_269,text,Other
+poll_271,text,Hypothetical
+poll_276,text,Dating and Relationship
+poll_280,text,Celebrities
+poll_281,text,Philosophy and Religion
+poll_287,text,Other
+poll_288,text,Other
+poll_293,text,Other
+poll_294,text,Other
+poll_297,text,Lifestyle
+poll_298,text,Dating and Relationship
+poll_299,text,Other
+poll_301,text,Other
+poll_302,text,City Musings
+poll_303,text,Other
+poll_304,text,Dating and Relationship
+poll_305,text,Hypothetical
+poll_307,text,Dating and Relationship
+poll_311,text,Music
+poll_312,text,Other
+poll_314,text,Lifestyle
+poll_316,text,Other
+poll_319,text,Random
+poll_319,text,Dating and Relationship
+poll_322,text,Random
+poll_322,text,Would You Rather
+poll_327,text,Lifestyle
+poll_329,text,Other
+poll_331,text,Hobbies
+poll_332,text,College Musings
+poll_333,text,Internet
+poll_336,text,Other
+poll_337,text,Hypothetical
+#N/A,text,Random
+#N/A,text,Other
+poll_339,text,Random
+poll_339,text,Hypothetical
+poll_345,text,Other
+poll_346,text,Other
+poll_348,text,Internet
+poll_354,text,Other
+poll_357,text,Dating and Relationship
+poll_359,text,Celebrities
+poll_361,text,Internet
+poll_364,text,Other
+poll_365,text,Dating and Relationship
+poll_367,text,Hypothetical
+poll_368,text,Lifestyle
+poll_371,text,Random
+poll_371,text,Other
+poll_373,text,Music
+poll_374,text,Lifestyle
+poll_376,text,Other
+poll_379,text,Random
+poll_379,text,Dating and Relationship
+poll_381,text,Movies and TV
+#N/A,text,Random
+#N/A,text,Hypothetical
+poll_383,text,Philosophy and Religion
+poll_384,text,Random
+poll_384,text,Dating and Relationship
+poll_385,text,Lifestyle
+poll_389,text,Random
+poll_389,text,Dating and Relationship
+#N/A,text,Random
+#N/A,text,Shopping and Finance
+poll_393,text,Trivia
+poll_395,text,Random
+poll_395,text,Dating and Relationship
+poll_399,text,Other
+poll_401,text,Other
+poll_402,text,Internet
+#N/A,text,Random
+#N/A,text,Dating and Relationship
+poll_407,text,Other
+poll_408,text,Dating and Relationship
+poll_413,text,Would You Rather
+poll_418,text,Other
+poll_420,text,Dating and Relationship
+poll_425,text,Would You Rather
+poll_434,text,Lifestyle
+poll_437,text,Dating and Relationship
+poll_442,text,Hypothetical
+poll_443,text,Other
+poll_444,text,Random
+poll_444,text,Dating and Relationship
+poll_445,text,Other
+poll_448,text,Lifestyle
+poll_452,text,Hypothetical
+poll_454,text,Other
+poll_456,text,Lifestyle
+poll_457,text,Dating and Relationship
+poll_458,text,Random
+poll_458,text,Would You Rather
+poll_461,text,Philosophy and Religion
+poll_463,text,Bollywood
+poll_464,text,Dating and Relationship
+poll_465,text,Hypothetical
+poll_466,text,Trivia
+poll_467,text,Hypothetical
+poll_471,text,Internet
+poll_473,text,Random
+poll_473,text,Philosophy and Religion
+poll_476,text,Other
+poll_478,text,Hypothetical
+poll_480,text,Dating and Relationship
+poll_481,text,Current Events
+poll_483,text,Music
+poll_485,text,Random
+poll_485,text,Philosophy and Religion
+poll_487,text,Random
+poll_487,text,Other
+poll_494,text,Other
+#N/A,text,Random
+#N/A,text,Other
+poll_497,text,Hypothetical
+poll_502,text,Current Events
+poll_503,text,Other
+poll_504,text,Other
+poll_505,text,Internet
+poll_506,text,Trivia
+poll_509,text,Other
+poll_510,text,Other
+poll_516,text,Celebrities
+poll_517,text,Other
+poll_518,text,Other
+poll_520,text,Philosophy and Religion
+poll_521,text,Sneakers
+poll_523,text,Other
+poll_524,text,Hobbies
+poll_525,text,Random
+poll_525,text,Lifestyle
+poll_526,text,Lifestyle
+poll_528,text,Gaming
+poll_529,text,Other
+poll_530,text,Other
+poll_531,text,Other
+poll_532,text,Random
+poll_532,text,Other
+poll_533,text,Other
+poll_534,text,Other
+poll_540,text,Food and Drinks
+#N/A,text,Random
+#N/A,text,Lifestyle
+poll_544,text,Dating and Relationship
+#N/A,text,Random
+#N/A,text,Other
+poll_551,text,Philosophy and Religion
+poll_553,text,Hypothetical
+poll_558,text,Hypothetical
+poll_559,text,Other
+poll_560,text,Other
+poll_561,text,Dating and Relationship
+poll_562,text,Philosophy and Religion
+poll_563,text,Food and Drinks
+poll_564,text,Other
+poll_567,text,Music
+poll_568,text,Lifestyle
+poll_570,text,Sneakers
+poll_571,text,Other
+poll_573,text,Would You Rather
+poll_575,text,Hypothetical
+poll_576,text,Internet
+poll_578,text,Would You Rather
+poll_579,text,Music
+poll_580,text,Other
+poll_582,text,Dating and Relationship
+poll_584,text,Lifestyle
+poll_585,text,Internet
+poll_586,text,Internet
+poll_587,text,Lifestyle
+poll_588,text,Other
+poll_590,text,Philosophy and Religion
+poll_591,text,Other
+poll_593,text,Other
+poll_594,text,Philosophy and Religion
+poll_595,text,Other
+poll_601,text,Tech
+poll_604,text,Random
+poll_604,text,Other
+poll_609,text,Other
+poll_611,text,Other
+poll_613,text,Lifestyle
+poll_616,text,Random
+poll_616,text,Other
+poll_617,text,Random
+poll_617,text,Hypothetical
+poll_618,text,Food and Drinks
+poll_619,text,Gaming
+poll_621,text,Other
+poll_623,text,Dating and Relationship
+poll_630,text,Other
+poll_632,text,Lifestyle
+poll_633,text,Campus Musings
+#N/A,text,Random
+#N/A,text,Other
+poll_635,text,Dating and Relationship
+poll_637,text,Other
+poll_639,text,Random
+poll_639,text,Would You Rather
+poll_640,text,Trivia
+poll_643,text,Shopping and Finance
+poll_644,text,Dating and Relationship
+poll_648,text,Other
+poll_649,text,Dating and Relationship
+poll_650,text,Random
+poll_650,text,Dating and Relationship
+poll_651,text,Lifestyle
+poll_654,text,College Musings
+poll_657,text,Internet
+poll_658,text,Other
+poll_663,text,Dating and Relationship
+poll_664,text,Dating and Relationship
+poll_665,text,Other
+poll_666,text,Internet
+poll_667,text,Other
+poll_668,text,Would You Rather
+poll_672,text,Other
+poll_674,text,Sneakers
+poll_676,text,Random
+poll_676,text,Other
+poll_677,text,Other
+poll_678,text,Other
+poll_679,text,Other
+poll_683,text,Hypothetical
+poll_684,text,Dating and Relationship
+poll_687,text,Would You Rather
+poll_689,text,Dating and Relationship
+poll_691,text,Internet
+poll_696,text,Random
+poll_696,text,Other
+poll_697,text,Would You Rather
+poll_699,text,Other
+poll_700,text,Other
+poll_704,text,Other
+poll_706,text,Other
+poll_707,text,Other
+poll_1,text,Hobbies
+poll_2,text,Lifestyle
+poll_5,text,Dating and Relationship
+poll_6,text,Dating and Relationship
+poll_8,text,Dating and Relationship
+poll_9,text,Dating and Relationship
+poll_10,text,Tech
+poll_13,text,Dating and Relationship
+poll_14,text,Dating and Relationship
+poll_15,text,Lifestyle
+poll_16,text,Would You Rather
+poll_21,text,Hypothetical
+poll_23,text,Would You Rather
+poll_28,text,Would You Rather
+poll_29,text,Lifestyle
+poll_30,text,Travel and Geography
+poll_31,text,Other
+poll_34,text,Other
+poll_37,text,Internet
+poll_38,text,Language and Names
+poll_39,text,Internet
+#N/A,text,Random
+#N/A,text,Lifestyle
+poll_43,text,Lifestyle
+poll_44,text,Movies and TV
+poll_45,text,Current Events
+poll_51,text,Hypothetical
+poll_53,text,Hobbies
+poll_54,text,Dating and Relationship
+poll_55,text,Internet
+poll_58,text,Other
+poll_59,text,Other
+poll_60,text,Lifestyle
+poll_61,text,Philosophy and Religion
+poll_62,text,Hypothetical
+poll_63,text,Other
+poll_64,text,Dating and Relationship
+poll_65,text,Other
+poll_67,text,Hypothetical
+poll_68,text,Movies and TV
+poll_72,text,Random
+poll_72,text,Internet
+poll_73,text,Other
+poll_74,text,Dating and Relationship
+poll_75,text,Trivia
+poll_76,text,Philosophy and Religion
+poll_77,text,Dating and Relationship
+poll_80,text,Lifestyle
+poll_81,text,Dating and Relationship
+poll_83,text,Dating and Relationship
+poll_86,text,Other
+poll_87,text,Other
+poll_89,text,Would You Rather
+poll_90,text,Other
+poll_91,text,Other
+poll_92,text,Dating and Relationship
+poll_96,text,Other
+poll_99,text,Other
+poll_102,text,Dating and Relationship
+poll_104,text,Other
+poll_105,text,Lifestyle
+poll_111,text,Lifestyle
+poll_115,text,Other
+poll_116,text,Other
+poll_117,text,Other
+poll_118,text,Other
+poll_120,text,Lifestyle
+poll_124,text,Other
+poll_128,text,Other
+poll_130,text,Sports
+poll_131,text,Philosophy and Religion
+poll_134,text,Random
+poll_134,text,Hypothetical
+poll_138,text,Hypothetical
+poll_143,text,Lifestyle
+poll_146,text,Random
+poll_146,text,Would You Rather
+poll_147,text,Lifestyle
+poll_152,text,Dating and Relationship
+poll_153,text,Dating and Relationship
+poll_154,text,Dating and Relationship
+poll_158,text,Other
+poll_159,text,Other
+poll_160,text,Celebrities
+#N/A,text,Random
+#N/A,text,Other
+poll_162,text,Dating and Relationship
+poll_169,text,Random
+poll_169,text,Other
+poll_171,text,Other
+poll_175,text,Dating and Relationship
+poll_176,text,Other
+poll_177,text,Would You Rather
+#N/A,text,Random
+#N/A,text,Hypothetical
+#N/A,text,Random
+#N/A,text,Other
+poll_178,text,Internet
+poll_180,text,Other
+#N/A,text,Random
+#N/A,text,Other
+poll_181,text,Food and Drinks
+poll_185,text,Lifestyle
+poll_186,text,Dating and Relationship
+poll_188,text,Lifestyle
+poll_189,text,Technology
+poll_190,text,Hypothetical
+poll_191,text,Lifestyle
+poll_192,text,Random
+poll_192,text,Dating and Relationship
+poll_193,text,Other
+poll_195,text,Dating and Relationship
+poll_197,text,Would You Rather
+poll_198,text,Internet
+poll_199,text,Other
+poll_201,text,Dating and Relationship
+poll_202,text,Gaming
+poll_204,text,Dating and Relationship
+poll_205,text,Hypothetical
+poll_209,text,Random
+poll_209,text,Internet
+poll_210,text,Dating and Relationship
+poll_212,text,Hypothetical
+poll_215,text,Celebrities
+poll_216,text,Dating and Relationship
+poll_220,text,Would You Rather
+poll_221,text,Other
+poll_224,text,Would You Rather
+poll_225,text,Lifestyle
+poll_227,text,Trivia
+poll_229,text,Internet
+poll_232,text,Dating and Relationship
+poll_233,text,Other
+#N/A,text,Random
+#N/A,text,Philosophy and Religion
+poll_234,text,Other
+#N/A,text,Random
+#N/A,text,Would You Rather
+poll_236,text,Hypothetical
+poll_243,text,Lifestyle
+poll_244,text,Random
+poll_244,text,Other
+poll_246,text,Other
+poll_249,text,Lifestyle
+poll_253,text,Lifestyle
+poll_255,text,Other
+poll_257,text,Philosophy and Religion
+poll_259,text,Trivia
+poll_261,text,Other
+poll_265,text,Dating and Relationship
+poll_266,text,Other
+poll_267,text,Other
+poll_268,text,Other
+poll_270,text,Other
+poll_272,text,Other
+poll_273,text,Other
+poll_274,text,Other
+poll_275,text,Other
+poll_277,text,Lifestyle
+poll_278,text,Other
+poll_279,text,Hobbies
+poll_282,text,Other
+poll_283,text,City Musings
+poll_284,text,Movies and TV
+poll_285,text,Random
+poll_285,text,Dating and Relationship
+poll_286,text,Dating and Relationship
+poll_289,text,Other
+poll_290,text,Other
+poll_291,text,Hypothetical
+poll_292,text,Other
+poll_295,text,Other
+poll_296,text,Lifestyle
+poll_300,text,Celebrities
+poll_306,text,Random
+poll_306,text,Other
+poll_308,text,Lifestyle
+poll_309,text,Random
+poll_309,text,Other
+poll_310,text,Tech
+poll_313,text,College Musings
+poll_315,text,Hypothetical
+poll_317,text,Lifestyle
+poll_318,text,Internet
+poll_320,text,Dating and Relationship
+poll_321,text,Food and Drinks
+poll_323,text,Lifestyle
+poll_324,text,Dating and Relationship
+poll_325,text,Other
+poll_326,text,Other
+poll_328,text,Lifestyle
+poll_330,text,Would You Rather
+poll_334,text,Travel and Geography
+poll_335,text,Other
+poll_338,text,Dating and Relationship
+poll_340,text,Hypothetical
+poll_341,text,Other
+poll_342,text,Other
+poll_343,text,Other
+poll_344,text,Dating and Relationship
+poll_347,text,Language and Names
+poll_349,text,Hypothetical
+poll_350,text,Dating and Relationship
+poll_351,text,Hypothetical
+poll_352,text,Other
+poll_353,text,College Musings
+poll_355,text,Dating and Relationship
+poll_356,text,Dating and Relationship
+poll_358,text,Other
+poll_360,text,Dating and Relationship
+poll_362,text,Other
+poll_363,text,Other
+#N/A,text,Random
+#N/A,text,Dating and Relationship
+poll_366,text,Other
+poll_369,text,Dating and Relationship
+poll_370,text,Other
+poll_372,text,Would You Rather
+poll_375,text,Other
+poll_377,text,Random
+poll_377,text,Dating and Relationship
+poll_378,text,Dating and Relationship
+poll_380,text,Random
+poll_380,text,Other
+poll_382,text,Dating and Relationship
+poll_386,text,Food and Drinks
+poll_387,text,Food and Drinks
+poll_388,text,Travel and Geography
+poll_390,text,Other
+poll_391,text,Other
+poll_392,text,Dating and Relationship
+poll_394,text,Dating and Relationship
+poll_396,text,Hypothetical
+poll_397,text,Other
+poll_398,text,Dating and Relationship
+poll_400,text,Trivia
+poll_403,text,Dating and Relationship
+poll_404,text,Dating and Relationship
+poll_405,text,Other
+poll_406,text,Sneakers
+poll_409,text,Other
+poll_410,text,Philosophy and Religion
+poll_411,text,Would You Rather
+poll_412,text,Other
+poll_414,text,Other
+poll_415,text,Random
+poll_415,text,Internet
+poll_416,text,Dating and Relationship
+poll_417,text,Shopping and Finance
+poll_419,text,Other
+poll_421,text,Current Events
+poll_422,text,Trivia
+poll_423,text,Other
+poll_424,text,Hypothetical
+poll_426,text,City Musings
+poll_427,text,Bollywood
+poll_428,text,Other
+poll_429,text,Dating and Relationship
+poll_430,text,College Musings
+poll_431,text,Other
+poll_432,text,Hobbies
+poll_433,text,Dating and Relationship
+poll_435,text,Other
+poll_436,text,Travel and Geography
+poll_438,text,Other
+poll_439,text,Hypothetical
+poll_440,text,Books And Comics
+poll_441,text,Technology
+poll_446,text,Dating and Relationship
+poll_447,text,Other
+poll_449,text,Other
+poll_450,text,Other
+poll_451,text,Hypothetical
+poll_453,text,Random
+poll_453,text,Hypothetical
+poll_455,text,Dating and Relationship
+poll_459,text,Dating and Relationship
+poll_460,text,Celebrities
+poll_462,text,Dating and Relationship
+poll_468,text,Hobbies
+poll_469,text,Random
+poll_469,text,Lifestyle
+poll_470,text,Dating and Relationship
+poll_472,text,Dating and Relationship
+poll_474,text,Hypothetical
+poll_475,text,Random
+poll_475,text,Other
+poll_477,text,Other
+poll_479,text,Random
+poll_479,text,Other
+poll_482,text,Shopping and Finance
+poll_484,text,Hypothetical
+poll_486,text,Dating and Relationship
+poll_488,text,Hypothetical
+poll_489,text,Random
+poll_489,text,Other
+poll_490,text,Dating and Relationship
+poll_491,text,Other
+poll_492,text,Hypothetical
+poll_493,text,Philosophy and Religion
+poll_495,text,Dating and Relationship
+poll_496,text,Hypothetical
+poll_498,text,Random
+poll_498,text,Dating and Relationship
+poll_499,text,Trivia
+poll_500,text,Other
+poll_501,text,Dating and Relationship
+poll_507,text,Other
+poll_508,text,Hypothetical
+poll_511,text,Lifestyle
+poll_512,text,Trivia
+poll_513,text,Dating and Relationship
+poll_514,text,Other
+poll_515,text,Would You Rather
+poll_519,text,Would You Rather
+poll_522,text,Travel and Geography
+poll_527,text,Hypothetical
+poll_535,text,Random
+poll_535,text,Other
+poll_536,text,Other
+poll_537,text,Other
+poll_538,text,Random
+poll_538,text,Lifestyle
+poll_539,text,Trivia
+poll_541,text,Hypothetical
+poll_542,text,Lifestyle
+poll_543,text,Other
+poll_545,text,Current Events
+poll_546,text,Other
+poll_547,text,Other
+poll_548,text,Other
+poll_549,text,Dating and Relationship
+poll_550,text,Dating and Relationship
+poll_552,text,Other
+poll_554,text,Dating and Relationship
+poll_555,text,Other
+poll_556,text,Hypothetical
+poll_557,text,Other
+poll_565,text,Other
+poll_566,text,Hypothetical
+poll_569,text,Other
+poll_572,text,Shopping and Finance
+poll_574,text,Would You Rather
+poll_577,text,Dating and Relationship
+poll_581,text,Dating and Relationship
+#N/A,text,Random
+#N/A,text,Hypothetical
+poll_583,text,Sneakers
+poll_589,text,Other
+poll_592,text,Random
+poll_592,text,Dating and Relationship
+poll_596,text,Philosophy and Religion
+poll_597,text,Other
+poll_598,text,Dating and Relationship
+poll_599,text,Other
+poll_600,text,Movies and TV
+poll_602,text,Other
+poll_603,text,Sports
+poll_605,text,Other
+poll_606,text,Other
+poll_607,text,Other
+poll_608,text,Hobbies
+poll_610,text,Other
+poll_612,text,Dating and Relationship
+poll_614,text,Lifestyle
+poll_615,text,Tech
+poll_620,text,Dating and Relationship
+poll_622,text,Other
+poll_624,text,Would You Rather
+poll_625,text,College Musings
+poll_626,text,Other
+poll_627,text,Other
+poll_628,text,Dating and Relationship
+poll_629,text,Dating and Relationship
+poll_631,text,Random
+poll_631,text,Hypothetical
+poll_634,text,Shopping and Finance
+poll_636,text,Lifestyle
+poll_638,text,Would You Rather
+poll_641,text,Other
+poll_642,text,Gaming
+poll_645,text,Other
+poll_646,text,Other
+poll_647,text,Lifestyle
+#N/A,text,Random
+#N/A,text,Would You Rather
+poll_652,text,Random
+poll_652,text,Other
+poll_653,text,Would You Rather
+poll_655,text,City Musings
+poll_656,text,Other
+poll_659,text,Travel and Geography
+poll_660,text,Philosophy and Religion
+poll_661,text,Lifestyle
+poll_662,text,City Musings
+poll_669,text,Lifestyle
+poll_670,text,Trivia
+poll_671,text,Hypothetical
+poll_673,text,Lifestyle
+poll_675,text,Hobbies
+poll_680,text,Other
+poll_681,text,Lifestyle
+poll_682,text,Other
+poll_685,text,Dating and Relationship
+poll_686,text,Lifestyle
+poll_688,text,Dating and Relationship
+poll_690,text,Would You Rather
+poll_692,text,Other
+#N/A,text,Random
+#N/A,text,Dating and Relationship
+poll_693,text,Movies and TV
+poll_694,text,Lifestyle
+poll_695,text,Shopping and Finance
+poll_698,text,Dating and Relationship
+poll_701,text,Other
+poll_702,text,Random
+poll_702,text,Other
+poll_703,text,Internet
+poll_705,text,Dating and Relationship
